@@ -1,0 +1,22 @@
+{
+    "image3": {
+        "data": "hwQYABgAAAAAAAAAAAAAAMzMAAAAAAAAAAAAwHd3DAAAAAAAAAAAwHx3DAAAAAAAAAAMzHx3dwAAAAAAAADMzHd3xwAAAAAAzADAd3d3dwcAAAAAzLwiInJ3IgIAAMAMwCtydyJydwcAAMDMsCd3IiJyd8wAAMDMeycicnciJ8cAAAC8cicicncnJ8cAwAx8IiIicncncncAwMx8JyJ3cncncscAwMx3dyInd3cnd8cAAHx3d3d3d3d3dycAAHD3EXe3e3d3JyIAAMD3/3chIiIiIgwAAMD3d3cxMzNxewwAAMD3d3cxMzNxfAwAAAB8d3cxMzNxzAwAAAAiInIxMzNxDAAAAADAInJ7Ind3AAAAAAAAdyLCIswMAAAAAAAAwMwAAAAAAAA=",
+        "mimeType": "image/x-mkcd-f4",
+        "displayName": "myImage"
+    },
+    "image2": {
+        "data": "hwQMABAAAAAA8P//D+B3AAD//yf+f30A8P//d+cv/wDwfiL33SJhL+9+J/fdEmEi7+4nIrIXIgLv7n53IiJiD+/u7vLdImL/8P7v8t2yIvLw//8iIvL/AAD//yLyf30AAPD//w/gdwA=",
+        "mimeType": "image/x-mkcd-f4",
+        "displayName": "zombie"
+    },
+    "image1": {
+        "data": "hwQYABgAAAAAAAD/DwAAAAAAAAAA8P///gAAAAAAAAAA//7/7w8A/wAAAAAA7/7+7v7//wAAAADw7v7yRE70/wAAAADw7v7yRE70DwAAAADw7u/yRET0DwAAAAD/7u//u0T0/wAAAAAv/y7v8UT0/wAAAADwIi7vRET0DwAAAADwLy7vRPREAAAAAAAA/y7+7v5EAAAAAAAA8O/y/vBEAAAAAAAAAPD/D/BPAAAAAAAAAAAAAP8PAAAAAAAAAAAAAP8PAAAAAAAAAAAAAPkPAAAAAAAAAAAAAPAPAAAAAAAAAAAAAPAPAAAAAAAAAAAAAPAPAAAAAAAAAAAAAPAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=",
+        "mimeType": "image/x-mkcd-f4",
+        "displayName": "jouer"
+    },
+    "*": {
+        "mimeType": "image/x-mkcd-f4",
+        "dataEncoding": "base64",
+        "namespace": "myImages"
+    }
+}
