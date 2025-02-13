@@ -16,20 +16,28 @@ f f f e 1 1 1 1 1 1 1 1 e e f f
 . . . e 1 1 1 1 1 1 1 1 e . . . 
 . . . . . f f b b f f . . . . . 
 `</field><data>{"commentRefs":[],"fieldData":{"img":"?Ox:;?5T;H]kTP#`rVtA"}}</data></shadow></value><value name="kind"><shadow type="spritekind" id="4z$-ApmcG~q[m;K$SaI|" disabled="true"><field name="MEMBER">Player</field></shadow></value></block><block type="spritescreate" id="Oc`BOiWJFL*gc{^w%_br" disabled="true" x="660" y="217"><value name="img"><shadow type="screen_image_picker" id="%#lo+hLjEze7X#g!w]W9" disabled="true"><field name="img">img`
-. . . . . . . . . . . . . . . . 
-. . . . . . . . . . . . . . . . 
-. . . . . . . . . . . . . . . . 
-. . . . . . . . . . . . . . . . 
-. . . . . . . . . . . . . . . . 
-. . . . . . . . . . . . . . . . 
-. . . . . . . . . . . . . . . . 
-. . . . . . . . . . . . . . . . 
-. . . . . . . . . . . . . . . . 
-. . . . . . . . . . . . . . . . 
-. . . . . . . . . . . . . . . . 
-. . . . . . . . . . . . . . . . 
-. . . . . . . . . . . . . . . . 
-. . . . . . . . . . . . . . . . 
-. . . . . . . . . . . . . . . . 
-. . . . . . . . . . . . . . . . 
+........................
+........................
+........................
+...........ccc..........
+...........cccc.........
+.......ccc..cc77ccc.....
+.......cccccc777777c2...
+........ccb7777ffff72c..
+.....cc..b227771f777227.
+.....cccb7722771f777227c
+......cb777222777777222c
+......b2222222777777772c
+...cc.227222777711111b2.
+....cc277222727b233337c.
+...cc7272222277b2333322.
+.cccc727277777772333322.
+c7cc772227777777233337c.
+c777777227777777233337c.
+c777777222777777211117c.
+c777777772222277277777..
+.cc77727777227772bccc...
+...7c72772277772277c....
+.....727c7777772cccc....
+........ccc7cc22........
 `</field><data>{"commentRefs":[],"fieldData":{"img":"%#lo+hLjEze7X#g!w]W9"}}</data></shadow></value><value name="kind"><shadow type="spritekind" id="cy]/)8iLer|#|@n,8x-h" disabled="true"><field name="MEMBER">Player</field></shadow></value></block></xml>
